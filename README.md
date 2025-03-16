@@ -103,5 +103,4 @@ How to Run
 5. Explore query optimization techniques for large datasets.
 
 
-License
 This project is licensed under the MIT License.
